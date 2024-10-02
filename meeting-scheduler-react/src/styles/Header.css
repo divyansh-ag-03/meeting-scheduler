@@ -1,0 +1,13 @@
+/* src/styles/Header.css */
+.header-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: transparent; /* Keep background transparent */
+}
+
+.user-email {
+    color: white; /* Text color white */
+    font-weight: 500;
+}
